@@ -1,0 +1,10 @@
+Update website routing configuration for proper navigation
+
+Configure Vercel rewrites in vercel.json to direct all non-API routes to index.html for client-side routing.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0cb4d514-f973-4c20-841d-2f0d26a2b359
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: e0dae31c-7e1b-42cb-b683-7dfe1480aa94
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a5aa6dd2-8e22-453a-a22a-05937dbf5c32/0cb4d514-f973-4c20-841d-2f0d26a2b359/mDPbAiH
+Replit-Helium-Checkpoint-Created: true
